@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "PC",
+    "price": 1099.99,
+    "imageUrl": "src/assets/alienware-Hpaq-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Camera",
+    "price": 720,
+    "imageUrl": "src/assets/andrew-hutchings-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "TV",
+    "price": 800.99,
+    "imageUrl": "src/assets/jens-kreuter-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 750.99,
+    "imageUrl": "src/assets/serwin365-unsplash.jpg"
+  }
+]
